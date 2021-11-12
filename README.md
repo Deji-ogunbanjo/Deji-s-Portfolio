@@ -1,2 +1,2 @@
 # Deji-s-Portfolio
-tis is a dem website
+this is a demo website
